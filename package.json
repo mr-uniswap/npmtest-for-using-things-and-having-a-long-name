@@ -3,8 +3,8 @@
   "version": "1.0.1",
   "description": "",
   "repository": {
-    "type":"git",
-    "https://github.com/mr-uniswap/npmtest-for-using-things-and-having-a-long-name.git"
+    "type": "git",
+    "url": "https://github.com/mr-uniswap/npmtest-for-using-things-and-having-a-long-name.git"
   },
   "main": "index.js",
   "scripts": {
